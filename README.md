@@ -13,7 +13,9 @@
 - A passionate backend developer with Java Springboot and Apache Camel
 - Experimenting with Rust and C
 - Constantly learning new stuff
+- Interesting in anything with development, except frontend things :)
 
+<br/>
 <br/>
 <br/>
 
