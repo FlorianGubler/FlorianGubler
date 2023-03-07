@@ -10,7 +10,7 @@
 
 <br>
 
-- A passionate backend developer in with Java Springboot and Camel
+- A passionate backend developer with Java Springboot and Apache Camel
 - Experimenting with Rust and C
 - Constantly learning new stuff
 
