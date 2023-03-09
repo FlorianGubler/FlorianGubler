@@ -11,9 +11,10 @@
 <br>
 
 - A passionate backend developer with Java Springboot and Apache Camel
-- Experimenting with Rust and C
+- Experimenting with Rust and C / C++
 - Constantly learning new stuff
-- Interesting in anything with development, except frontend things :)
+- Interesting in anything with development and new technologies
+- For frontend, please go to someone else :)
 
 <br/>
 <br/>
