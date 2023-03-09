@@ -32,7 +32,7 @@
 
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Apachae Camel](https://img.shields.io/badge/Camel-006521?style=for-the-badge&logo=apache&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-003545?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Database-003545?style=for-the-badge&logo=oracle&logoColor=white)
   ![Maven](https://img.shields.io/badge/Maven-133834?style=for-the-badge&logo=apache&logoColor=white)
 
 **Software and Tools**
