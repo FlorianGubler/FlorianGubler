@@ -25,9 +25,12 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-133834?style=for-the-badge&logo=php&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/NodeJS-136834?style=for-the-badge&logo=npm&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Python](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=python&logoColor=white)
+
+**Currently learning**
   ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-133834?style=for-the-badge&logo=rust&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Technologies**
 
