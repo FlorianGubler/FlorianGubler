@@ -1,18 +1,18 @@
 <h1 align="center"><b>Hi, I'm Florian </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi...;Programming+apprentice+at+Helsana+IT;Backend+Developer+with+Spring;Active+Learner+of+C+and+C%2B%2B"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi...;Software+developer+in+backend+technologies;Working+with+Java+%2C+%20+Python+and+C%2B%2B;Great+supporter+for+all+kinds+automations"></a>
 </p>
 
 ## **About me**
-<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/programming.svg" width = 175px></picture>
-
-
 - A passionate backend developer with Java Springboot and Apache Camel
+- Worked with Python (Flusk) APIs together with Socket IO
+- Experienced service intergration with Unreal Engine for immersive experiences at @HelloXLab KK in Osaka, Japan
 - Experimenting with Rust and C / C++
 - Constantly learning new stuff
 - Interesting in anything with development and new technologies
-- For frontend, please go to someone else :)
+- Great supporter of test and workflow automations
+- And: Frontend is not my business :)
 
 <br/>
 
