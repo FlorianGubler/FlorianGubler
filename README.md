@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Florian </b></h1>
+<h1 align="center"><b>Hi 👋</b></h1>
 
 ## **About me**
 - A passionate backend developer with Java Springboot and Apache Camel
@@ -25,7 +25,6 @@
 
 **Currently learning**
 
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-133834?style=for-the-badge&logo=rust&logoColor=white)
 
 **Technologies**
@@ -33,11 +32,5 @@
   ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Apache Camel](https://img.shields.io/badge/Camel-006521?style=for-the-badge&logo=apache&logoColor=white)
   ![Maven](https://img.shields.io/badge/Maven-133834?style=for-the-badge&logo=apache&logoColor=white)
-
-**Software and Tools**
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/eclipse-133834?style=for-the-badge&logo=eclipse&logoColor=white)
 
 </p>
